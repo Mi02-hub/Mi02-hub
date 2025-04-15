@@ -21,12 +21,9 @@
 </div>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,azure)](https://skillicons.dev)
-
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=netlify,vercel,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,java)](https://skillicons.dev)
 
 ### Other Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,,mysql,git,github,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,,mysql)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
