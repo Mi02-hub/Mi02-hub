@@ -21,7 +21,7 @@
 </div>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=javascript,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,java)](https://skillicons.dev)
 
 ### Other Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
