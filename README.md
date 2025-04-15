@@ -1,28 +1,32 @@
-<h1 align="center">Hi 👋, I'm Millena</h1>
-<h3 align="center">A passionate developer from Brasil</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mih02-hub&label=Profile%20views&color=0e75b6&style=flat" alt="mih02-hub" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Millena+Queiroz;I'm+a+Developer+Enthusiast;I+love+Back-end+and+Java;Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mih02-hub" alt="mih02-hub" /></a> </p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mi02-hub&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Millena Queiroz GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mi02-hub&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![Snake animation](https://github.com/MatthewsTomts/MatthewsTomts/blob/output/github-contribution-grid-snake.svg)
 
-- 🌱 I’m currently learning **Front-end and Back-end based on Java and JavaScript.**
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mi02-hub&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 👨‍💻 All of my projects are available at [Mi02-hub](Mi02-hub)
-
-- 📫 How to reach me **millenaqueiroz834@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/millena campos de queiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="millena campos de queiroz" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mi02-hub&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<div align="center">
+    <a href="https://instagram.com/mi_llenaqueiroz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:"millenaqueiroz834@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mih02-hub&show_icons=true&locale=en&layout=compact" alt="mih02-hub" /></p>
+### Main skills:
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,html,css,azure)](https://skillicons.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mih02-hub&show_icons=true&locale=en" alt="mih02-hub" /></p>
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=netlify,vercel,github)](https://skillicons.dev)<br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mih02-hub&" alt="mih02-hub" /></p>
+### Other Knowledge:
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,,mysql,git,github,azure)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
